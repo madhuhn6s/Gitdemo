@@ -19,5 +19,6 @@ name="john"
 marks=94.5
 print("name is",name,"marks are",marks)
 print("may name")
-print("names is %name
+print("may name1")
+print("may name2")
 
